@@ -1,0 +1,1 @@
+This is a terminal based mortgage calculator that I am building as a simple project. I am starting by making a terminal based version, but may revisit in the future to create a web based version. 
